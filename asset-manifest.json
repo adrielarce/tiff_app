@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/adrielarce/tiff_app/static/css/main.50d0efa8.chunk.css",
+    "main.js": "/adrielarce/tiff_app/static/js/main.c31d3f8f.chunk.js",
+    "main.js.map": "/adrielarce/tiff_app/static/js/main.c31d3f8f.chunk.js.map",
+    "runtime~main.js": "/adrielarce/tiff_app/static/js/runtime~main.0c9997eb.js",
+    "runtime~main.js.map": "/adrielarce/tiff_app/static/js/runtime~main.0c9997eb.js.map",
+    "static/js/2.5f7ff4b1.chunk.js": "/adrielarce/tiff_app/static/js/2.5f7ff4b1.chunk.js",
+    "static/js/2.5f7ff4b1.chunk.js.map": "/adrielarce/tiff_app/static/js/2.5f7ff4b1.chunk.js.map",
+    "index.html": "/adrielarce/tiff_app/index.html",
+    "precache-manifest.4c69fe4b586de2084b3b658a9e39a292.js": "/adrielarce/tiff_app/precache-manifest.4c69fe4b586de2084b3b658a9e39a292.js",
+    "service-worker.js": "/adrielarce/tiff_app/service-worker.js",
+    "static/css/main.50d0efa8.chunk.css.map": "/adrielarce/tiff_app/static/css/main.50d0efa8.chunk.css.map"
+  }
+}
